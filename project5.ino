@@ -1,6 +1,8 @@
-// project 5
+/*
+  Author: Steve Lyons
+  Company: Lyons Software
+  Project: project5 - 
+  Goal: 
+*/
 
-// more arduino code coming ......
-
-
-// additional functions 
+// add arduino code here 
