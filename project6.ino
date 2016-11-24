@@ -1,3 +1,6 @@
-//project6
-
-// more code 
+/*
+  Author: Steve Lyons
+  Company: Lyons Software
+  Project: project6 - 
+  Goal: 
+*/
