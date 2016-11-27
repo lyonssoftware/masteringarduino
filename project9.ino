@@ -1,5 +1,8 @@
-// project 9 
+/*
+  Author: Steve Lyons
+  Company: Lyons Software
+  Project: project9 - 
+  Goal: 
+*/
 
-// more code coming 
-
-// code coming 
+// add arduino code here 
