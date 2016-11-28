@@ -1,3 +1,8 @@
-// project 10
+/*
+  Author: Steve Lyons
+  Company: Lyons Software
+  Project: project10 - 
+  Goal: 
+*/
 
-// more code coming
+// add arduino code here 
