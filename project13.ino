@@ -1,5 +1,6 @@
-//project13.ino
-
-// more code coming 
-
-// more code
+/*
+  Author: Steve Lyons
+  Company: Lyons Software
+  Project: project13 - 
+  Goal: 
+*/
