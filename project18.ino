@@ -1,5 +1,6 @@
-// project 18
-
-// more code coming
-
-// additional code
+/*
+  Author: Steve Lyons
+  Company: Lyons Software
+  Project: project18 - 
+  Goal: 
+*/
