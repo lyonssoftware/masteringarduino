@@ -1,3 +1,11 @@
-// project 20
+/*
+  Author: Steve Lyons
+  Company: Lyons Software
+  Project: project20 -
+  Goal: 
+*/
 
-// more code coming 
+// arduino code 
+
+
+
