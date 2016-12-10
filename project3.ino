@@ -10,5 +10,9 @@ int led2 = 4;
 
 void setup()
 {
-  // setup program 
+  // setup program o
+  for(int i = 0; i < 10; i++)
+  {
+    // print loop statement 
+  }
 }
