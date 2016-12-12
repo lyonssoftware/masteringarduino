@@ -15,4 +15,10 @@ void setup()
   {
     // print loop statement 
   }
+  
+ int getNumber()
+ {
+   int led2  = 0;
+  return led2;
+ }
 }
