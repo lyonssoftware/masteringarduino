@@ -18,5 +18,9 @@ void setup()
     {
       // test if value is even or not 
     }
+    else
+    {
+      // the value is odd 
+    }
   }
 }
