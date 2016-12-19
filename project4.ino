@@ -16,9 +16,12 @@ void setup()
     // print loop statement 
   }
   
+  /*
+    This returns the led needed
+  */
  int getNumber()
  {
    int led2  = 0;
-  return led2;
+   return led2;
  }
 }
