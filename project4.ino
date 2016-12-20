@@ -21,6 +21,7 @@ void setup()
   */
  int getNumber()
  {
+   // setvalue of led
    int led2  = 0;
    return led2;
  }
