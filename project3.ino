@@ -8,6 +8,7 @@
 int led = 3;
 int led2 = 4;
 int led3 = 5;
+int led5 = 6;
 
 void setup()
 {
