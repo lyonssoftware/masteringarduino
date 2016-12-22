@@ -5,10 +5,11 @@
   Goal: Use arduino
 */
 
-int led = 3;
-int led2 = 4;
-int led3 = 5;
-int led5 = 6;
+int led = 1;
+int led2 = 2;
+int led3 = 3;
+int led5 = 5;
+int led6 = 6;
 
 void setup()
 {
