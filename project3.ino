@@ -11,6 +11,9 @@ int led3 = 3;
 int led5 = 5;
 int led6 = 6;
 
+// setup pin 13
+  int led7 = 13;
+
 void setup()
 {
   // setup program o
