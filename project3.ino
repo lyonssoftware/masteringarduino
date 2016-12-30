@@ -5,12 +5,10 @@
   Goal: Use arduino
 */
 
-int led = 1;
-int led2 = 2;
-int led3 = 3;
-int led5 = 5;
-int led6 = 6;
+// setup pins 
 
+int led1 = 1;
+int led2 = 2;
 // setup pin 13
   int led7 = 13;
 
