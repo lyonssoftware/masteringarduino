@@ -26,6 +26,10 @@ void setup()
     else
     {
       // the value is odd 
+      while(i < 3)
+      {
+        i++;
+      }
     }
   }
 }
