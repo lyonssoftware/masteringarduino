@@ -9,3 +9,12 @@
 
 int led1 = 1;
 int led2 = 2;
+
+void setup()
+{
+  // 
+  for (int i = 0; i < 5; i++)
+  {
+    // do something 
+  }
+}
