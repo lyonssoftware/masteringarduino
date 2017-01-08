@@ -13,4 +13,5 @@ int led1 = 1;
 for (int i = 0; i < 15; i++)
 {
   // print statement 
+  int led6 = 7;
 }
