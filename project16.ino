@@ -7,3 +7,6 @@
 
 int led1 = 3;
 int led2 = 5; 
+
+
+INT LED6  = 8; 
