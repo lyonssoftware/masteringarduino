@@ -17,6 +17,7 @@
   void loop() 
   {
     // turn the LED on (HIGH is the voltage level)
+    int led3 = 6;
     digitalWrite(led, HIGH); 
 
      // wait for 3 seconds
