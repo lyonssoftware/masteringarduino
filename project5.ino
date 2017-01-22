@@ -10,6 +10,12 @@
 int led3 =  5;
 int led1 = 1;
 
+void loop()
+{
+  // setup the environment
+  
+}
+
 for (int i = 0; i < 15; i++)
 {
   // print statement 
