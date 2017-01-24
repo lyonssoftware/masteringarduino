@@ -6,3 +6,9 @@
 */
 
 int led1 = 5; 
+
+void loop()
+{
+  // setup environment 
+}
+
