@@ -6,3 +6,8 @@
 */
 
 int led3 = 14;
+
+void loop() 
+{
+int led3 = 15;
+}
