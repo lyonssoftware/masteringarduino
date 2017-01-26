@@ -6,6 +6,7 @@
 */
 
 int led1 = 5; 
+int led3 = 13;
 
 void loop()
 {
