@@ -4,3 +4,5 @@
   Project: project17 - 
   Goal: 
 */
+
+int led3 = 15;
