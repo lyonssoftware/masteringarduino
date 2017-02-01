@@ -6,3 +6,5 @@
 */
 
 // add arduino code here 
+
+int led6 = 15;
