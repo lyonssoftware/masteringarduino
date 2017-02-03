@@ -11,4 +11,6 @@ int led4 = 15;
 void loop() 
 {
 int led3 = 15;
+  int x = 6; 
+  x++;
 }
