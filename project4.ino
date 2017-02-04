@@ -15,14 +15,4 @@ void setup()
   {
     // print loop statement 
   }
-  
-  /*
-    This returns the led needed
-  */
- int getNumber()
- {
-   // setvalue of led
-   int led2  = 0;
-   return led2;
- }
 }
