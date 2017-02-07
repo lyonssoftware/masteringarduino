@@ -7,6 +7,7 @@
 
 // add arduino code here 
 
+// setup the leds for the project
 int led1 = 1;
 int led2 = 2;
 int led3 = 3;
