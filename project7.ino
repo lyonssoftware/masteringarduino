@@ -12,6 +12,8 @@ int led1 = 1;
 int led2 = 2;
 int led3 = 3;
 
+
+// setup the variables
 void setup()
 {
   // 
