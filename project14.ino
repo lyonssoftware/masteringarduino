@@ -6,4 +6,9 @@
 */
 
 int led1 = 13;
-int led2 = 14; 
+int led2 = 14;
+
+void loop()
+{
+  // setup environment 
+}
