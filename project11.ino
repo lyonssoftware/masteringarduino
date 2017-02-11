@@ -6,3 +6,6 @@
 */
 
 // add arduino code here 
+
+// set up led 
+int led = 13;
