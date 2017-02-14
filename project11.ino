@@ -9,3 +9,9 @@
 
 // set up led 
 int led = 13;
+
+
+void setup()
+{
+  // setup the environment 
+}
