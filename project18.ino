@@ -4,7 +4,7 @@
   Project: project18 - 
   Goal: 
 */
-
+// SETUP LEDS 
 int led3 = 14;
 int led4 = 15;
 
