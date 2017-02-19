@@ -6,3 +6,4 @@
 */
 
 int led1 = 15;
+int led2 = 16;
