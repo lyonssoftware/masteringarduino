@@ -5,7 +5,8 @@
   Goal: 
 */
 
-// arduino code 
+int led1 = 10;
+int led2 = 11;
 
 
 
