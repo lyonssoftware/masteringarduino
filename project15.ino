@@ -4,8 +4,9 @@
   Project: project15 - 
   Goal: 
 */
-
-INT LED1 = 13;
+// setup leds
+int led1 = 13;
+int led2 = 15;
 
 void loop()
 {
