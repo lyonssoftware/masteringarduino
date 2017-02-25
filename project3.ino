@@ -4,9 +4,7 @@
   Project: project3 -  
   Goal: Use arduino
 */
-
-// setup pins 
-
+// setup the leds
 int led1 = 1;
 int led2 = 2;
 // setup pin 13
