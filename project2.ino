@@ -4,7 +4,7 @@
   Project: project2 - Blink LED on Breadboard
   Goal: Use Arduino Uno to blink LED on breadboard 
 */
-
+// setting up the pins 
   // setup pin 13
   int led = 13;
   
