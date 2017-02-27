@@ -26,6 +26,6 @@
      // turn the LED off by making voltage LOW
     digitalWrite(led, LOW);
 
-    // wait for 3 seconds THEN STARTBAGAIN 
+    // wait for 3 seconds THEN STARTBAGAIN, GOR THE PROGRAM 
     delay(3000); 
   }
