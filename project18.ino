@@ -8,6 +8,7 @@
 int led3 = 14;
 int led4 = 15;
 
+// loop through the leds
 void loop() 
 {
 int led3 = 15;
