@@ -4,10 +4,11 @@
   Project: project4 - 
   Goal: 
 */
-// SETUP LED
+// setup the leds
 int led = 3;
 int led2 = 4;
 
+// setup the functions
 void setup()
 {
   // setup program o
