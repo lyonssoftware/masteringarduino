@@ -10,6 +10,12 @@ int led3 = 15;
 int led4 = 16;
 int led5 = 17;
 
+// setup loop
+void loop()
+{
+  // loop through leds
+}
+
 void setup()
 {
   // setup controls 
