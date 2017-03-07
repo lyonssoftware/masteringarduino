@@ -10,17 +10,11 @@
 int led3 =  5;
 int led1 = 1;
 int led5 = 8;
+int led6 = 7;
 
-void loop()
-{
-  // setup the environment
-  
-}
 
+// for loop
 for (int i = 0; i < 15; i++)
 {
   // print statement 
-  int led6 = 7;
-  
-  int led7 = 7;
 }
