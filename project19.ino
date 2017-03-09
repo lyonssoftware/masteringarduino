@@ -7,9 +7,14 @@
 
 // arduino code 
 
-
-INT led1 = 10; 
+//setup leds 
+int led1 = 10; 
 int led2 = 11;
+
+void setup()
+{
+// setup
+}
 
 
 
