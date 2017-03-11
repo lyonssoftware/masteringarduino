@@ -17,3 +17,9 @@ void loop()
   // start process for looping 
 }
 
+// 
+
+VOID print()
+{ 
+// code to pribt info 
+}
