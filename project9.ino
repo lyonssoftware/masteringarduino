@@ -15,3 +15,12 @@ void setup()
   // setup code 
 
 }
+
+void loop()
+{
+  // for loop
+  for (int i = 0; i < 10; i++)
+  {
+    // action 
+  }
+}
