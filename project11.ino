@@ -5,10 +5,10 @@
   Goal: 
 */
 
-// add arduino code here 
-
-// set up led 
-int led = 13;
+// set up leds
+int led1 = 12;
+int led2 = 13;
+int led3 = 14; 
 
 
 void setup()
