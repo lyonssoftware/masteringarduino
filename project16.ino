@@ -10,6 +10,7 @@ int led1 = 3;
 int led2 = 5; 
 int led3 = 7;
 int led4 = 8;
+int led5 = 9;
 
 
 void loop()
@@ -21,5 +22,9 @@ void loop()
 
 VOID print()
 { 
-// code to pribt info 
+// code to pribt info '
+  if (led1 == 3)
+  {
+    // this is a valid pin 
+  }
 }
