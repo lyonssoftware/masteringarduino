@@ -4,11 +4,10 @@
   Project: project9 - 
   Goal: 
 */
-
-// add arduino code here 
-
+// set up the leds
 int led6 = 15;
 int led5 = 14;
+int led6 = 13;
 
 void setup()
 {
@@ -21,6 +20,9 @@ void loop()
   // for loop
   for (int i = 0; i < 10; i++)
   {
-    // action 
+    if (led6 == 15)
+    {
+      print ('led is good');
+    }
   }
 }
