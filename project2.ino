@@ -8,6 +8,7 @@
   // setup pin 13
   int led = 13;
   
+// setup allows the early configurations of the project
   void setup() 
   { 
     // initialize the digital pin as an output
