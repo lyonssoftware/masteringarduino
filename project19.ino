@@ -16,5 +16,10 @@ void setup()
 // setup
 }
 
+void loop()
+{
+  // loop throught the leds
+}
+
 
 
