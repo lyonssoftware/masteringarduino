@@ -12,3 +12,8 @@ void loop()
 {
   // CODE HERE 
 }
+
+void setup()
+{
+  // use this section to setup environment 
+}
