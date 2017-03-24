@@ -15,3 +15,8 @@ void setup()
 {
   // setup the environment 
 }
+
+void loop()
+{
+  // iterate through the following letters
+}
