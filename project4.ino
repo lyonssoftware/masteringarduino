@@ -17,3 +17,17 @@ void setup()
     // print loop statement 
   }
 }
+
+int runX()
+{
+  int x = 4;
+  if ((x%2) == 2)
+  {
+    x = 1;
+  }
+  else
+  {
+    x = 0;
+  }
+  return x;
+}
