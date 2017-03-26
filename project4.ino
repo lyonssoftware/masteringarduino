@@ -9,14 +9,11 @@ int led = 3;
 int led2 = 4;
 
 // setup the functions
-void setup()
-{
-  // setup program o
-  for(int i = 0; i < 10; i++)
-  {
-    // print loop statement 
+void setup() 
+  { 
+    // initialize the digital pin as an output
+    pinMode(led, OUTPUT);
   }
-}
 
 int runX()
 {
