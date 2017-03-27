@@ -13,8 +13,12 @@ int led5 = 8;
 int led6 = 7;
 
 
-// for loop
-for (int i = 0; i < 15; i++)
-{
-  // print statement 
-}
+// setup the functions
+void setup() 
+  { 
+    // initialize the digital pin as an output
+    pinMode(led3, OUTPUT);
+    pinMode(led1, OUTPUT);
+    pinMode(led5, OUTPUT);
+    pinMode(led6, OUTPUT);
+  }
