@@ -1,14 +1,11 @@
 /*
   Author: Steve Lyons
-  Company: Lyons Software
-  Project: project2 - Blink LED on Breadboard
-  Goal: Use Arduino Uno to blink LED on breadboard 
-*/
-// setting up the pins 
+  Company: Lyons Softwar
   // setup pin 13
   int led = 13;
   
 // setup allows the early configurations of the project
+// more code
   void setup() 
   { 
     // initialize the digital pin as an output
